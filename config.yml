@@ -112,8 +112,8 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
+# menu:
+#   main:
     # - identifier: categories
     #   name: categories
     #   url: /categories/

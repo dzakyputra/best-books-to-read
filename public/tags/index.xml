@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Tags on BestBooksToRead</title>
-    <link>/tags/</link>
-    <description>Recent content in Tags on BestBooksToRead</description>
+    <title>Tags on Best Books To Read</title>
+    <link>https://bestbookstoread.info/tags/</link>
+    <description>Recent content in Tags on Best Books To Read</description>
     <image>
-      <title>BestBooksToRead</title>
-      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>Best Books To Read</title>
+      <url>https://bestbookstoread.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://bestbookstoread.info/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 28 Apr 2023 16:41:50 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 28 Apr 2023 16:41:50 +0700</lastBuildDate><atom:link href="https://bestbookstoread.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>general</title>
-      <link>/tags/general/</link>
+      <link>https://bestbookstoread.info/tags/general/</link>
       <pubDate>Fri, 28 Apr 2023 16:41:50 +0700</pubDate>
       
-      <guid>/tags/general/</guid>
+      <guid>https://bestbookstoread.info/tags/general/</guid>
       <description></description>
     </item>
     

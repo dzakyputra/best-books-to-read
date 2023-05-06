@@ -112,16 +112,16 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-# menu:
-#   main:
-    # - identifier: categories
-    #   name: categories
-    #   url: /categories/
-    #   weight: 10
-    # - identifier: tags
-    #   name: tags
-    #   url: /tags/
-    #   weight: 20
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search
+      weight: 10
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 20
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
@@ -136,3 +136,8 @@ markup:
     # guessSyntax: true
     # lineNos: true
     # style: monokai
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON # is necessary

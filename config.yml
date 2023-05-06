@@ -77,12 +77,12 @@ params:
     Content: This website is your go-to source for book recommendations, reviews, and all things reading. Whether you're looking for a new novel to dive into, want to explore a new genre, or need inspiration for your next book club pick, we've got you covered.
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
-    - name: github
-      url: "https://github.com/"
+    # - name: twitter
+    #   url: "https://twitter.com/"
+    # - name: stackoverflow
+    #   url: "https://stackoverflow.com"
+    # - name: github
+    #   url: "https://github.com/"
 
   analytics:
     google:

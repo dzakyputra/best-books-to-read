@@ -1,4 +1,4 @@
-baseURL: ""
+baseURL: "https://bestbookstoread.info"
 title: BestBooksToRead
 paginate: 5
 theme: PaperMod

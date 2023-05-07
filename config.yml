@@ -73,8 +73,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: This website is your go-to source for book recommendations, reviews, and all things reading. Whether you're looking for a new novel to dive into, want to explore a new genre, or need inspiration for your next book club pick, we've got you covered.
+    Title: "Hi Book Lovers \U0001F44B"
+    Content: This website is made for your go-to source for book recommendations and reviews. Whether you're looking for a new novel to dive into, want to explore a new genre, or need inspiration for your next book club pick, we've got you covered.
 
   socialIcons:
     # - name: twitter

@@ -1,10 +1,15 @@
 ---
 title: "Best Books To Read When You Feel Depressed"
-date: 2023-04-27T16:41:50+07:00
+date: 2023-04-26T16:41:50+07:00
 draft: false
 tags: 
-- general
+- sad
+- self-help
 ---
+
+<!-- <img src="/posts/a-depressed-person.jpg" style="height: 25rem; margin: auto; margin-bottom: 2rem;"> -->
+
+<!-- > Photo by <a href="https://unsplash.com/@ericjamesward?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Eric Ward</a> on <a href="https://unsplash.com/images/feelings/sad?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a> -->
 
 Depression is a serious mental health condition that can make it challenging to find joy and happiness in everyday life. However, reading can be an excellent way to cope with depression and lift your spirits. In this post, we've put together a list of the five best books to read when you're feeling depressed, with books that can make you feel happy again.
 

@@ -1,9 +1,9 @@
 ---
 title: "Best Books To Read When You Are Sad"
-date: 2023-04-28T16:41:50+07:00
+date: 2023-04-27T16:41:50+07:00
 draft: false
 tags: 
-- general
+- sad
 ---
 
 Life can be tough, and sometimes we all go through difficult times that can leave us feeling sad and down. During such moments, reading can be an excellent way to lift your spirits and escape into a different world. In this post, we've put together a list of the five best books to read when you're feeling sad.

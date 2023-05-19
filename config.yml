@@ -146,4 +146,3 @@ outputs:
         - JSON # is necessary
 sitemap:
   filename: sitemaps.xml
-enableRobotsTXT: false

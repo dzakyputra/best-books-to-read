@@ -9,7 +9,7 @@ tags:
 
 Looking for books that celebrate women's stories and experiences? Here are five must-reads by female authors that will inspire and empower you:
 
-1. **The Color Purple by Alice Walker**, a Pulitzer Prize-winning novel that explores the lives of African American women in the 1930s. Through the eyes of Celie, a poor and uneducated woman, we witness the struggles and triumphs of black women as they navigate racism, sexism, and poverty.
+1. <a href="https://amzn.to/3WgkkPr" target="_blank">**The Color Purple by Alice Walker**</a>, a Pulitzer Prize-winning novel that explores the lives of African American women in the 1930s. Through the eyes of Celie, a poor and uneducated woman, we witness the struggles and triumphs of black women as they navigate racism, sexism, and poverty.
 
 2. **The Handmaid's Tale by Margaret Atwood**, a dystopian novel set in a future where women have been stripped of their rights and reduced to reproductive vessels. The story follows Offred, a handmaid who rebels against the oppressive regime she is trapped in.
 

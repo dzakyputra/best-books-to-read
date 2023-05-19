@@ -144,5 +144,4 @@ outputs:
         - HTML
         - RSS
         - JSON # is necessary
-sitemap:
-  filename: sitemaps.xml
+enableRobotsTXT: false

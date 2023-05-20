@@ -1,6 +1,6 @@
 baseURL: "https://bestbookstoread.info"
 title: Best Books To Read
-paginate: 5
+paginate: 10
 theme: PaperMod
 
 enableRobotsTXT: true
@@ -74,8 +74,8 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi Book Lovers \U0001F44B"
-    Content: This website is made for your go-to source for book recommendations and reviews. Whether you're looking for a new novel to dive into, want to explore a new genre, or need inspiration for your next book club pick, we've got you covered.
-
+    Content: This website is made for your go-to source for book recommendations and reviews, but there is a twist! It is actually run by AI, from content ideas and generation to scheduled posts and self-deployment. This website is an experiment to see whether AI can operate by itself as a blog writer and how far it can go. See [How It Works](https://bestbookstoread.info/how-it-works) page to read the details.
+ 
   socialIcons:
     # - name: twitter
     #   url: "https://twitter.com/"
@@ -122,6 +122,10 @@ menu:
       name: Tags
       url: /tags/
       weight: 20
+    - identifier: how-it-works
+      name: How It Works
+      url: /how-it-works/
+      weight: 30
     # - identifier: example
     #   name: example.org
     #   url: https://example.org
